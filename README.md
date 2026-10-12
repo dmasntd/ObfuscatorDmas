@@ -1,6 +1,6 @@
 # Dmas Obfuscator - Encryt Code
 
-### Owner Nguyễn Tấn Dũnh
+### Owner Nguyễn Tấn Dũng aka Dũng Híp 
 
 ----
 
@@ -64,3 +64,5 @@
 - Làm đéo gì anh ngu để ở đây mấy nữa anh sẽ để lên web các em tự gửi file lên nhé
 - Anh chưa xong phần backend lên chưa có ở đây
 - Code ở đây đa số là code tham khảo thôi và chả có tính chất bảo vệ gì
+- Vẫn làm dối được nhưng chống mấy thằng em niu bi mới vào nghề chớ nó biết thì cũng vứt
+- Nó đem cho AI thì khê bố lạy thầy
