@@ -57,3 +57,10 @@
 - Admin có cơ chế đọc mã nguồn riêng lên con vợ trơ tráo admin khóa chết con vợ luôn
 - Các con vợ khi đã dùng công cụ đã được xem là cam kết điều khoản của admin không bàn cãi
 - Điều khoản có hiệu lực với mọi người dùng không phân biệt quốc gia
+
+----
+
+# Code và công cụ?
+- Làm đéo gì anh ngu để ở đây mấy nữa anh sẽ để lên web các em tự gửi file lên nhé
+- Anh chưa xong phần backend lên chưa có ở đây
+- Code ở đây đa số là code tham khảo thôi và chả có tính chất bảo vệ gì
