@@ -21,6 +21,8 @@
 - Khóa chặn thực thi khi bị hook, crack, dịch ngược một cách toàn diện
 - Phát hiện môi trường debug local sanbox
 - Khóa phiên bản tránh bảo vệ yếu kém cũ mà vẫn còn được lưu hành
+- Ban mạnh tay với thiết bị chuyên dùng phân tích
+- Bảo vệ người dùng thông thường khỏi code bẩn (lưu ý tôi sẽ không bảo đảm bảo vệ hoàn toàn bạn vẫn lên cẩn thận khi run mã)
 
 ----
 
@@ -31,6 +33,7 @@
 - Phải chấp nhận cam kết về một số điều khoản điều lệ nếu chạy trên môi trường không được phép
 - Bản thân tôi không cam kết hoàn toàn vì mã nguồn phải xuất hiện để chạy, việc tôi làm là ngăn chặn qua nhiều lớp và hệ thống bảo vệ
 - Đôi khi sẽ phát hiện nhầm tý mấy con vợ chịu khó báo cáo về cho anh nhé anh fix
+- Có thể bị lợi dụng cơ chế bảo vệ để làm điều xấu
 
 ----
 
