@@ -9,6 +9,10 @@
 - Tôi xin trơ cháo giới thiệu món hàng bảo vệ mã nguồn cho mấy con vợ, tôi đem đến con hàng siêu bá đạo chống lại việc đọc trộm dịch ngược móc méo mã nguồn nhằm đánh cắp, crack bản quyền của mấy con vợ, con hàng này sẽ giúp con vợ an toàn không lo về việc bị đánh cắp mã nguồn và bị crack công cụ của các con vợ.
 - Với việc bản thân tôi cũng từng là thằng crack mã nguồn để nhằm mục đích né tránh trả phí, mua key hoặc vượt link để lấy key, vì đa số key quá ngắn hạn mà bản thân còn phải vượt link nữa, nhưng tôi vẫn làm để bảo vệ mã nguồn tránh bị đánh cắp mã nguồn do tôi cũng thiết kế mã nguồn trên chất xám của mình và nó thuộc tài sản trí tuệ của tôi lên việc mã nguồn cần được bảo vệ là ưu tiên hàng đầu.
 - Việc này sẽ làm ae crack sẽ đau đầu vì ngồi tìm cách phá giải vì mọi mã đều phải thực thi được, và khi họ lắm quyền kiểm soát thì nó vẫn bị dịch ngược, mọi thứ chỉ làm khó và gây tốn thời gian kèm tài nguyên cho thứ vô ích nhưng được đến đâu hay đến đó.
+- Có hàng chục layer tầng xen kẽ mã hóa và làm dối gây khó debug mỗi layer được code bằng hơn 2000 dòng mã xử lý chuyên nghiệp, tích hợp công nghệ module lib requests riêng tư đánh lạc hướng soi requests bảo vệ mọi requests chống leak, tích hợp công nghệ lõi độc quyền siêu việt bảo vệ toàn diện ngăn chặn diện rộng hoàn toàn và xóa khả năng giải mã dối với các phiên cũ hoặc phiên bị hook crack.
+- Giảm thiểu khả năng code bị đọc trộm theo cách an toàn nhất, giảm khả năng bị crack hook bypass, giảm nguy cơ bị đánh cắp tài sản trí tuệ và chất xám. Với công nghệ anti ban bậc nhì do pháp luật Việt Nam chưa có tài liệu xác minh không được phép nói bậc nhất, nhưng nếu tôi sếp nhì không ai dám sếp nhất với công nghệ lõi này.
+
+> Lưu ý: Nếu bạn dùng vào mục đích xấu có hành vi bao gồm malware, virus, trojan, keylog, botnet, thu thập data, phân tán tài nguyên v.v bao gồm toàn bộ hành vi sai trái tôi sẽ khóa và ban vĩnh viễn.
 
 ----
 
